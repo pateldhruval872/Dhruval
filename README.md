@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Data Scientist</h3>
 
-<p align="center"><img src="https://images.app.goo.gl/YAPiPWMh5nqCcYvu9" width="1920" height="1080"  /></p>
+<p align="center"><img src="https://images.app.goo.gl/YAPiPWMh5nqCcYvu9" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **probabilistic graphical models**
