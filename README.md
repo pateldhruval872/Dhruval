@@ -5,8 +5,9 @@
 <p align="center"><img src="https://github.com/pateldhruval872/Dhruval/blob/main/CyberSecurity.gif" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
-- 🔭 I’m currently working on **probabilistic graphical models**
-- 🌱 I’m currently learning more about **Generative AI, Probabilistic Machine Learning**
+- 🔭 I'm currently a Data Scientist. I focus on building and deploying machine learning models to solve real-world problems. I am passionate about data analysis, predictive modeling, and developing algorithms that help make data-driven decisions.**
+- 🎓 I hold a Master's degree in Computer Science from Monroe College, NY. And, I am doing Data Science Bootcamp From Triple Ten **
+- 🌱 I’m currently learning more about **Machine Learning**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)
 - 📝 I regularly write articles on [medium](https://medium.com/@Iceman_subzero)
