@@ -8,12 +8,11 @@
 - 🔭 I'm currently a Data Scientist. I focus on building and deploying machine learning models to solve real-world problems. I am passionate about data analysis, predictive modeling, and developing algorithms that help make data-driven decisions.**
 - 🎓 I hold a Master's degree in Computer Science from Monroe College, NY. And, I am doing Data Science Bootcamp From Triple Ten **
 - 🌱 I’m currently learning more about **Machine Learning**
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Data Science Projects, Machine Learning projects**
 - 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)
-- 📝 I regularly write articles on [medium](https://medium.com/@Iceman_subzero)
 - 💬 Ask me about **python, machine learning**
-- 📫 How to reach me: **chuks.o.okoli@gmail.com**
-- 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/chukwuemeka-okoli-38686923/)
+- 📫 How to reach me: **pateldhruval872@gmail.com**
+- 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/dhruvalpatel99/)
   <!--- 🤝 I’m looking for help with **MLOps**-->
 
 <h3 align="left">Connect with me:</h3>
@@ -47,4 +46,4 @@
   </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chuksoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chuksoo" /></a></p>
+
