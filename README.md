@@ -29,13 +29,4 @@
 -->
 </p>
 
-<h3 align="left">Github Activities:</h3>
-<div class="row">
-  <div class="column">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=chuksoo&show_icons=true&locale=en" height="200" width="400" alt="chuksoo" />
-  </div>
-  <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuksoo&theme=default" height="200" width="400" alt="chuksoo" /> 
-  </div>
-</div>
 
