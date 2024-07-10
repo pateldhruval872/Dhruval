@@ -9,7 +9,7 @@
 - 🎓 I hold a Master's degree in Computer Science from Monroe College, NY. And, I am doing Data Science Bootcamp From Triple Ten **
 - 🌱 I’m currently learning more about **Machine Learning**
 - 👯 I’m looking to collaborate on **Data Science Projects, Machine Learning projects**
-- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)
+- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/pateldhruval872/Data-Science-Portfolio)
 - 💬 Ask me about **python, machine learning**
 - 📫 How to reach me: **pateldhruval872@gmail.com**
 - 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/dhruvalpatel99/)
