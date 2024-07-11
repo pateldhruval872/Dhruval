@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Dhruval</h1>
 
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 <p align="center"><img src="https://github.com/pateldhruval872/Dhruval/blob/main/CyberSecurity.gif" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
