@@ -12,7 +12,7 @@
 - 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/pateldhruval872/Data-Science-Portfolio)
 - 💬 Ask me about **python, machine learning**
 - 📫 How to reach me: **pateldhruval872@gmail.com**
-- 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/dhruvalpatel99/)
+- 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/dhruvalpatel872/)
   <!--- 🤝 I’m looking for help with **MLOps**-->
 
 <h3 align="left">Connect with me:</h3>
